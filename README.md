@@ -1,2 +1,2 @@
-# manulkot.github.io   
+# manulkot.github.io
 Конспект курса
